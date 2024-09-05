@@ -159,9 +159,3 @@ This will disconnect all clients and shut down the server.
 ## Conclusion
 This **Chatroom Application** is a basic implementation of a real-time messaging system using **C++**, **socket programming**, and **multi-threading**. It can be extended with additional features such as encryption, user authentication, and more advanced messaging functionalities.
 ```
-
-### Instructions to Use:
-- Copy this code and save it in a file named `README.md` in your project directory.
-- Push the changes to your GitHub repository, and this file will appear as the documentation for your project.
-
-This README provides detailed information about the project and how to run it, making it easy for others to understand and use your chatroom application.
